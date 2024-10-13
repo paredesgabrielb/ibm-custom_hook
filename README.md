@@ -2,5 +2,7 @@
 
 ### Implement
 
-npm install
-npm rum preview
+| Action      | Code |
+| :---        |    :----:   | 
+| Install Dependeces      | ```npm install```       | 
+| Run app   | ```npm rum preview````        | 
